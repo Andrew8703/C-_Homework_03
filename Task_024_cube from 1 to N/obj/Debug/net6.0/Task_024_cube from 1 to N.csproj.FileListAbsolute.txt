@@ -1,0 +1,15 @@
+\\andrey\Users\admin\Desktop\ОБЩАЯ ПАПКА\С#\C#_Homework_03\Task_024_cube from 1 to N\bin\Debug\net6.0\Task_024_cube from 1 to N.exe
+\\andrey\Users\admin\Desktop\ОБЩАЯ ПАПКА\С#\C#_Homework_03\Task_024_cube from 1 to N\bin\Debug\net6.0\Task_024_cube from 1 to N.deps.json
+\\andrey\Users\admin\Desktop\ОБЩАЯ ПАПКА\С#\C#_Homework_03\Task_024_cube from 1 to N\bin\Debug\net6.0\Task_024_cube from 1 to N.runtimeconfig.json
+\\andrey\Users\admin\Desktop\ОБЩАЯ ПАПКА\С#\C#_Homework_03\Task_024_cube from 1 to N\bin\Debug\net6.0\Task_024_cube from 1 to N.dll
+\\andrey\Users\admin\Desktop\ОБЩАЯ ПАПКА\С#\C#_Homework_03\Task_024_cube from 1 to N\bin\Debug\net6.0\ref\Task_024_cube from 1 to N.dll
+\\andrey\Users\admin\Desktop\ОБЩАЯ ПАПКА\С#\C#_Homework_03\Task_024_cube from 1 to N\bin\Debug\net6.0\Task_024_cube from 1 to N.pdb
+\\andrey\Users\admin\Desktop\ОБЩАЯ ПАПКА\С#\C#_Homework_03\Task_024_cube from 1 to N\obj\Debug\net6.0\Task_024_cube from 1 to N.csproj.AssemblyReference.cache
+\\andrey\Users\admin\Desktop\ОБЩАЯ ПАПКА\С#\C#_Homework_03\Task_024_cube from 1 to N\obj\Debug\net6.0\Task_024_cube from 1 to N.GeneratedMSBuildEditorConfig.editorconfig
+\\andrey\Users\admin\Desktop\ОБЩАЯ ПАПКА\С#\C#_Homework_03\Task_024_cube from 1 to N\obj\Debug\net6.0\Task_024_cube from 1 to N.AssemblyInfoInputs.cache
+\\andrey\Users\admin\Desktop\ОБЩАЯ ПАПКА\С#\C#_Homework_03\Task_024_cube from 1 to N\obj\Debug\net6.0\Task_024_cube from 1 to N.AssemblyInfo.cs
+\\andrey\Users\admin\Desktop\ОБЩАЯ ПАПКА\С#\C#_Homework_03\Task_024_cube from 1 to N\obj\Debug\net6.0\Task_024_cube from 1 to N.csproj.CoreCompileInputs.cache
+\\andrey\Users\admin\Desktop\ОБЩАЯ ПАПКА\С#\C#_Homework_03\Task_024_cube from 1 to N\obj\Debug\net6.0\Task_024_cube from 1 to N.dll
+\\andrey\Users\admin\Desktop\ОБЩАЯ ПАПКА\С#\C#_Homework_03\Task_024_cube from 1 to N\obj\Debug\net6.0\ref\Task_024_cube from 1 to N.dll
+\\andrey\Users\admin\Desktop\ОБЩАЯ ПАПКА\С#\C#_Homework_03\Task_024_cube from 1 to N\obj\Debug\net6.0\Task_024_cube from 1 to N.pdb
+\\andrey\Users\admin\Desktop\ОБЩАЯ ПАПКА\С#\C#_Homework_03\Task_024_cube from 1 to N\obj\Debug\net6.0\Task_024_cube from 1 to N.genruntimeconfig.cache
